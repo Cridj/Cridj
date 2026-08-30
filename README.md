@@ -22,6 +22,16 @@
 - **Language:** C#
 - **Tools:** Git, GitHub, Rider, Visual Studio
 
+## Algorithm
+
+<div align="center">
+
+<a href="https://solved.ac/profile/jinw9805">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jinw9805" alt="jinw9805 solved.ac profile" />
+</a>
+
+</div>
+
 ## GitHub Stats
 
 <div align="center">
@@ -36,5 +46,3 @@
 ### [DevNinja RPG Project](https://github.com/Cridj/DevNinja_RPG_Project)
 
 Unity와 C#으로 제작한 RPG 프로젝트입니다. 게임 시스템, UI, 데이터 처리 기능을 구현하며 학습한 내용을 담고 있습니다.
-
-<!-- BOJ badge: add after confirming the Baekjoon handle -->
