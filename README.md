@@ -1,53 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome!&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%" alt="Welcome banner" />
+# Cridj
 
-# 👋 Welcome to My GitHub!
-
-게임 개발을 좋아하며, **Unity와 C#**을 중심으로 꾸준히 성장하고 있습니다.
+Game Developer · Unity / C#
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-안녕하세요! 직접 게임 시스템을 구현하고 개선하는 과정을 좋아하는 게임 개발자입니다.  
-배운 내용과 개발 경험은 블로그와 GitHub에 차곡차곡 기록하고 있습니다. 🎮
+Unity와 C#을 기반으로 게임을 개발하고 있습니다.
 
-## 🛠️ Tech Stack
+기능을 빠르게 구현하는 것만큼, 이후에도 이해하고 수정하기 쉬운 구조를 만드는 일을 중요하게 생각합니다. 게임의 흐름을 구성하는 시스템과 플레이어가 직접 마주하는 UI를 구현하면서, 반복되는 코드는 정리하고 데이터는 관리하기 쉬운 형태로 만드는 방법을 고민하고 있습니다.
+
+개발 과정에서 겪은 문제와 해결 방법은 블로그에 기록합니다. 알고리즘 문제 풀이도 병행하며 프로그래밍 기초와 문제 해결 능력을 꾸준히 다지고 있습니다.
+
+## Interests
+
+- 게임 플레이 시스템과 상호작용 구현
+- 재사용하기 쉬운 코드 구조와 데이터 관리
+- 디버깅, 리팩터링을 통한 코드 개선
+- 개발 과정과 문제 해결 경험 기록
+
+## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="Rider" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 📚 Blog
+주로 Rider와 Visual Studio를 사용합니다.
 
-게임 개발 과정과 공부한 내용을 기록합니다.
+## Blog
 
-<a href="https://gamedevchobo.tistory.com/">
-  <img src="https://img.shields.io/badge/GameDevChobo_Blog-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" alt="GameDevChobo Tistory blog" />
-</a>
+게임 개발 과정에서 배운 내용과 문제 해결 경험을 정리하고 있습니다.
 
-## 🧑‍💻 Algorithm
+[GameDevChobo 개발 블로그](https://gamedevchobo.tistory.com/)
+
+## Algorithm
 
 <div align="center">
 
 <a href="https://solved.ac/profile/jinw9805">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jinw9805" alt="jinw9805 solved.ac profile" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ 방문해 주셔서 감사합니다! 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer banner" />
 
 </div>
