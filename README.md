@@ -22,16 +22,6 @@ Unity와 C#으로 턴제 전투, 멀티플레이, 3D 편집 도구를 개발해 
 **직접 통제할 수 있는 범위에서 AI 활용하기**  
 Codex와 하네스를 사용해 작업 범위와 지켜야 할 조건을 정합니다. 해결할 문제와 설계 방향은 직접 판단하고, AI가 제안한 코드는 기존 구조에 맞는지 검토합니다. 제가 이해하고 설명할 수 있으며, 수정 결과를 확인할 수 있는 범위에서 활용하는 것을 기준으로 삼습니다.
 
-## 프로젝트와 기록
-
-| 저장소 | 살펴볼 내용 |
-| --- | --- |
-| [DevNinja RPG Project](https://github.com/Cridj/DevNinja_RPG_Project) | 턴제 전투, 스킬 연출, 전투 UI와 보상 처리 |
-| [Algorithm](https://github.com/Cridj/Algorithm) | 백준·프로그래머스·LeetCode 문제 풀이 |
-| [개발 블로그](https://github.com/Cridj/Cridj.github.io) | Unity와 C# 학습, 개발 과정과 정글 일지 |
-
-3D 공간 편집기, XR 멀티플레이 등 프로젝트별 담당 역할과 문제 해결 과정은 [노션 포트폴리오](https://app.notion.com/p/396db62443dc81f48e9eec75b8f158cf)에 정리했습니다.
-
 ## 사용 기술
 
 <p>
