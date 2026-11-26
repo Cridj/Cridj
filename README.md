@@ -38,6 +38,4 @@ Codex와 하네스를 사용해 작업 범위와 지켜야 할 조건을 정합�
 
 ## 알고리즘
 
-자료구조와 알고리즘 문제를 풀며 프로그래밍 기초를 다지고 있습니다.
-
 [![jinw9805 solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jinw9805)](https://solved.ac/profile/jinw9805)
